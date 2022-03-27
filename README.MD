@@ -1,7 +1,7 @@
 # RDOS
 
-Utility that automatically ddos russians sites
-Automatically get proxies and victims
+Utility that automatically ddos russians sites   
+Automatically get proxies and victims   
 
 ## Usage
 
@@ -17,4 +17,3 @@ Automatically get proxies and victims
 
  - https://github.com/Aruiem234/auto_mhddos
  - https://github.com/KarboDuck/mhddos_bash
-
